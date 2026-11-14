@@ -1,0 +1,2963 @@
+{
+  "user_location": {
+    "lat": 40.764195,
+    "lon": -73.987652,
+    "label": "You \u2014 Hell's Kitchen (52nd & 9th area)",
+    "as_of": "Fri Nov 13, 2026, 8:56 AM ET"
+  },
+  "places": [
+    {
+      "name": "Bar Centrale",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Hell's Kitchen",
+      "address": "322 W 46th St, New York, NY 10036",
+      "lat": 40.76011,
+      "lon": -73.98896,
+      "note": "Unmarked speakeasy; one of the city's best hidden bars",
+      "ig_urls": [
+        "https://www.instagram.com/p/DNQ0Gzyveri/"
+      ],
+      "distance_mi": 0.29,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Bar Lola",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Times Square / Theater District",
+      "address": "Times Square, New York, NY",
+      "lat": 40.759,
+      "lon": -73.9845,
+      "note": "Theater-romance aesthetic bar near Times Square. Coordinates approximate.",
+      "ig_urls": [
+        "https://www.instagram.com/reel/Dd3_2TbRyKi/"
+      ],
+      "distance_mi": 0.4,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Tatiana",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Afro-Caribbean / New American",
+      "neighborhood": "Lincoln Square",
+      "address": "10 Lincoln Center Plz, New York, NY 10023",
+      "lat": 40.77269,
+      "lon": -73.98273,
+      "note": "Kwame Onwuachi's acclaimed modern Afro-Caribbean tasting menu",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": 0.64,
+      "eligibility_tier": "High-likelihood maybe",
+      "eligibility_program": "Bilt",
+      "eligibility_note": "On Nextcard Bilt Mobile Checkout list (207 restaurants, Oct 7 2026) at 10 Lincoln Center Plaza. Strongest maybe.",
+      "eligibility_source": "https://www.nextcard.com/tools/bilt-cash-dining-map"
+    },
+    {
+      "name": "The Polo Bar",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "American",
+      "neighborhood": "Midtown",
+      "address": "1 E 55th St, New York, NY 10022",
+      "lat": 40.76165,
+      "lon": -73.97461,
+      "note": "Ralph Lauren's polished Midtown dining room; book the moment slots drop",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": 0.7,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Elsie Rooftop",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Midtown",
+      "address": "1412 Broadway, New York, NY 10018",
+      "lat": 40.75373,
+      "lon": -73.98685,
+      "note": "Friday nights mean open-bar salsa classes with skyline views",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFjBBBaBMJh/"
+      ],
+      "distance_mi": 0.72,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Gold Room",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "455 Madison Ave, New York, NY 10022",
+      "lat": 40.75795,
+      "lon": -73.97535,
+      "note": "Cocktail lounge on the Valentine's top-20 list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 0.78,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Monkey Bar",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "American",
+      "neighborhood": "Midtown",
+      "address": "60 E 54th St, New York, NY 10022",
+      "lat": 40.75998,
+      "lon": -73.97313,
+      "note": "Glamorous old-school room with close booths; a classic big-night-out table",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/",
+        "https://www.instagram.com/reel/DVHq1BXkWRP/"
+      ],
+      "distance_mi": 0.81,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Clock Coffee",
+      "type": "Caf\u00e9",
+      "original_category": "Work-friendly",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Midtown",
+      "address": "335 Madison Ave, New York, NY 10017",
+      "lat": 40.7535,
+      "lon": -73.97858,
+      "note": "Chill Midtown work spot with outlets and natural light",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DD7XfP5yt7d/"
+      ],
+      "distance_mi": 0.88,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Le Veau d'Or",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French",
+      "neighborhood": "Upper East Side",
+      "address": "129 E 60th St, New York, NY 10022",
+      "lat": 40.76316,
+      "lon": -73.96814,
+      "note": "Historic French room reborn; reservations vanish fast",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": 1.02,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Hutong",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Chinese",
+      "neighborhood": "Midtown East",
+      "address": "731 Lexington Ave, New York, NY 10022",
+      "lat": 40.76188,
+      "lon": -73.96826,
+      "note": "Dramatic Northern Chinese dining room for date night",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 1.03,
+      "eligibility_tier": "Verified",
+      "eligibility_program": "Bilt \u2014 experience only",
+      "eligibility_note": "Bilt Neighborhood Dining Experience, Nov 1 2026. Everyday listing unverified.",
+      "eligibility_source": "https://monkeymiles.boardingarea.com/bilt-rewards-rent-day/?replytocom=233314"
+    },
+    {
+      "name": "Little Dipper",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Chelsea",
+      "address": "135 W 30th St, New York, NY 10001",
+      "lat": 40.7481,
+      "lon": -73.99129,
+      "note": "Astrology-themed bar; a playful Valentine's date spot",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 1.13,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Franchia",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Korean",
+      "neighborhood": "Murray Hill",
+      "address": "12 Park Ave, New York, NY 10016",
+      "lat": 40.74753,
+      "lon": -73.98132,
+      "note": "Vegan Korean restaurant; fully vegetarian-friendly",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": 1.2,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Hangawi",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Korean",
+      "neighborhood": "Murray Hill",
+      "address": "12 E 32nd St, New York, NY 10016",
+      "lat": 40.74672,
+      "lon": -73.98468,
+      "note": "Serene vegetarian Korean fine dining (shoes-off dining room)",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": 1.22,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Okdongsik",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Korean",
+      "neighborhood": "NoMad",
+      "address": "13 E 30th St, New York, NY 10016",
+      "lat": 40.74561,
+      "lon": -73.98543,
+      "note": "Korean noodle specialist; the speakeasy George Bang Bang hides behind it",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR4UwaBDBaS/"
+      ],
+      "distance_mi": 1.29,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "George Bang Bang",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Speakeasy / Cocktail Bar",
+      "neighborhood": "East Village",
+      "address": "13 E 30th St, New York, NY 10016",
+      "lat": 40.74561,
+      "lon": -73.98543,
+      "note": "Ornate speakeasy tucked behind Okdongsik; red lighting and serious cocktails",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR4UwaBDBaS/"
+      ],
+      "distance_mi": 1.29,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Ophelia Rooftop",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Midtown East",
+      "address": "3 Mitchell Pl, New York, NY 10017",
+      "lat": 40.75319,
+      "lon": -73.96598,
+      "note": "Beekman Tower rooftop with sweeping skyline views",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/",
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": 1.37,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Kailash Parbat",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Indian",
+      "neighborhood": "Murray Hill",
+      "address": "99 Lexington Ave, New York, NY 10016",
+      "lat": 40.74206,
+      "lon": -73.98273,
+      "note": "Indian vegetarian restaurant, Jain-friendly",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": 1.55,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cote",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Korean BBQ / Steakhouse",
+      "neighborhood": "Flatiron",
+      "address": "16 W 22nd St, New York, NY 10010",
+      "lat": 40.7412,
+      "lon": -73.99121,
+      "note": "Upscale Korean BBQ built for a fun, interactive date",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVHq1BXkWRP/"
+      ],
+      "distance_mi": 1.6,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Foreigner Coffee",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Flatiron",
+      "address": "64 W 21st St, New York, NY 10010",
+      "lat": 40.74135,
+      "lon": -73.99337,
+      "note": "Coffee shop on the NYC cafe-crawl list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DJmsX-8OmNm/"
+      ],
+      "distance_mi": 1.61,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "S13 Handmade Noodles",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Chinese / Noodles",
+      "neighborhood": "Kips Bay",
+      "address": "207 E 26th St, New York, NY 10010",
+      "lat": 40.74062,
+      "lon": -73.98122,
+      "note": "$13 hand-pulled noodles you can watch being stretched to order",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DP9mhaxEWsX/"
+      ],
+      "distance_mi": 1.66,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Obica",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "",
+      "address": "928 Broadway, New York, NY 10010",
+      "lat": 40.74011,
+      "lon": -73.98935,
+      "note": "Mozzarella bar with vegetarian-friendly Italian plates",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": 1.67,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Crane Club",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Steakhouse",
+      "neighborhood": "Chelsea",
+      "address": "85 10th Ave, New York, NY 10011",
+      "lat": 40.74343,
+      "lon": -74.00757,
+      "note": "Classy date-night pick with great martinis and people-watching",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVHq1BXkWRP/"
+      ],
+      "distance_mi": 1.77,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Hearsay",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Chelsea",
+      "address": "407 W 15th St, New York, NY 10011",
+      "lat": 40.74196,
+      "lon": -74.00535,
+      "note": "Club on the free-guestlist circuit",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFwHlIetB0I/"
+      ],
+      "distance_mi": 1.79,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Lillie's",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "13 E 17th St, New York, NY 10003",
+      "lat": 40.73759,
+      "lon": -73.99118,
+      "note": "Victorian-themed bar (both locations); a date-night classic",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 1.85,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cafe Zaffri",
+      "type": "Caf\u00e9",
+      "original_category": "Work-friendly",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Flatiron",
+      "address": "16 E 16th St, New York, NY 10003",
+      "lat": 40.73684,
+      "lon": -73.99174,
+      "note": "Skylight, cozy armchairs, and free WiFi; a remote-work favorite",
+      "ig_urls": [
+        "https://www.instagram.com/p/DHCbKnLRt-I/",
+        "https://www.instagram.com/p/DSagieTkRz9/",
+        "https://www.instagram.com/reel/DWAI2mjDvdQ/"
+      ],
+      "distance_mi": 1.9,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Gansevoort Rooftop",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Meatpacking District",
+      "address": "18 9th Ave, New York, NY 10014",
+      "lat": 40.73993,
+      "lon": -74.00584,
+      "note": "Pool-side rooftop in the Meatpacking District",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": 1.93,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Alice",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "Chelsea",
+      "address": "126 W 13th St, New York, NY 10011",
+      "lat": 40.73709,
+      "lon": -73.99863,
+      "note": "Pretty-street Italian spot; $45 3-course restaurant week menu and standout tiramisu",
+      "ig_urls": [
+        "https://www.instagram.com/p/DMq5UQdS_OH/"
+      ],
+      "distance_mi": 1.96,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "St. Jardim",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "West Village",
+      "address": "10 Gansevoort Market, New York, NY 10014",
+      "lat": 40.74044,
+      "lon": -74.0089,
+      "note": "West Village wine bar on the red-wine-season list",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 1.98,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Ariston Coffee Bar",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Greenwich Village",
+      "address": "78 5th Ave, New York, NY 10011",
+      "lat": 40.73573,
+      "lon": -73.99403,
+      "note": "Flower shop meets cafe; a lovely work-trip stop",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DAoSQdNP3x5/"
+      ],
+      "distance_mi": 1.99,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Semma",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Indian",
+      "neighborhood": "Greenwich Village",
+      "address": "60 Greenwich Ave, New York, NY 10011",
+      "lat": 40.736,
+      "lon": -74.00061,
+      "note": "Michelin-starred South Indian tasting counter",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": 2.06,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Gottino",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "West Village",
+      "address": "52 Greenwich Ave, New York, NY 10011",
+      "lat": 40.73577,
+      "lon": -74.00047,
+      "note": "West Village wine bar with a patio; red-wine-season favorite",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 2.08,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Kamisama Ramen",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Japanese / Ramen",
+      "neighborhood": "East Village",
+      "address": "230 E 14th St, New York, NY 10003",
+      "lat": 40.73264,
+      "lon": -73.986,
+      "note": "$10 all-you-can-drink deal plus spicy jiro ramen and wings",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DQSchl-gaBX/"
+      ],
+      "distance_mi": 2.18,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Fonty's Deli",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Indian",
+      "neighborhood": "West Village",
+      "address": "20 Christopher St, New York, NY 10014",
+      "lat": 40.73385,
+      "lon": -74.00067,
+      "note": "Indian deli doing vada pav, Bombay sandwiches, and creamy oat-milk masala chai",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DQp9CdiDCSU/"
+      ],
+      "distance_mi": 2.2,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cath\u00e9drale",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French",
+      "neighborhood": "Greenwich Village",
+      "address": "112 E 11th St, New York, NY 10003",
+      "lat": 40.7316,
+      "lon": -73.98951,
+      "note": "High-buzz scene with meticulous plating; a go-to for special nights",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/",
+        "https://www.instagram.com/reel/DVHq1BXkWRP/"
+      ],
+      "distance_mi": 2.25,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Midnight Spaghetti",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "West Village",
+      "address": "West Village, New York, NY (late-night Fri & Sat 10pm-1am)",
+      "lat": 40.7335,
+      "lon": -74.0027,
+      "note": "Late-night spaghetti spot, Fri & Sat 10pm-1am. Coordinates approximate \u2014 West Village center.",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DdzgQuoh1Ma/"
+      ],
+      "distance_mi": 2.26,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Lao Ma Spicy",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Chinese / Sichuan",
+      "neighborhood": "Greenwich Village",
+      "address": "58 E 8th St, New York, NY 10003",
+      "lat": 40.73089,
+      "lon": -73.99343,
+      "note": "Sichuan spot for build-your-own mala dry pot with chili oil on every table",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DEGLPaXSs37/"
+      ],
+      "distance_mi": 2.32,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Hungry Llama",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "West Village",
+      "address": "679 Washington St, New York, NY 10014",
+      "lat": 40.73399,
+      "lon": -74.00837,
+      "note": "Viral whipped-honey latte and breakfast burrito with hash browns",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DJoyWZ5OXvr/"
+      ],
+      "distance_mi": 2.35,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Garret",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "West Village",
+      "address": "296 Bleecker St, New York, NY 10014",
+      "lat": 40.73235,
+      "lon": -74.00377,
+      "note": "Speakeasy above a Five Guys; try the 'John Wick' whiskey cocktail",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DEdVv_CSd0-/"
+      ],
+      "distance_mi": 2.36,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Veselka",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Ukrainian",
+      "neighborhood": "East Village",
+      "address": "144 2nd Ave, New York, NY 10003",
+      "lat": 40.72902,
+      "lon": -73.98714,
+      "note": "Classic Ukrainian diner; try the limited chocolate-pierogi collab when it runs",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DPuTBRxEfI_/"
+      ],
+      "distance_mi": 2.43,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cafe Maud",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "East Village",
+      "address": "132 2nd Ave, New York, NY 10003",
+      "lat": 40.72862,
+      "lon": -73.98733,
+      "note": "Bar pick for meeting people in the wild",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSgEdY-EYLw/"
+      ],
+      "distance_mi": 2.46,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Ayah",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Moroccan",
+      "neighborhood": "SoHo",
+      "address": "77 West Houston St, New York, NY",
+      "lat": 40.7293,
+      "lon": -74.0004,
+      "note": "Moroccan dining room in SoHo \u2014 lanterns, pastilla, briouates, skewers. Coordinates approximate.",
+      "ig_urls": [
+        "https://www.instagram.com/p/DfnWbtFo8BT/"
+      ],
+      "distance_mi": 2.5,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Dante",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "West Village",
+      "address": "81 MacDougal St, New York, NY 10012",
+      "lat": 40.72883,
+      "lon": -74.00161,
+      "note": "Legendary aperitivo bar with back-lit golden shelves",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR4UwaBDBaS/"
+      ],
+      "distance_mi": 2.55,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Wonderland Bar",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "East Village",
+      "address": "96 2nd Ave, New York, NY 10003",
+      "lat": 40.72705,
+      "lon": -73.98857,
+      "note": "Whimsical bar on the Valentine's top-20 list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 2.57,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Nines",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "NoHo",
+      "address": "9 Great Jones St, New York, NY 10012",
+      "lat": 40.72732,
+      "lon": -73.99398,
+      "note": "Cocktail bar on the Valentine's top-20 list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 2.57,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Milk and Roses",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Greenpoint",
+      "address": "1110 Manhattan Ave, Brooklyn, NY 11222",
+      "lat": 40.73641,
+      "lon": -73.95512,
+      "note": "Bar where meeting people in the wild beats the apps",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSgEdY-EYLw/"
+      ],
+      "distance_mi": 2.57,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Please Don't Tell",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Speakeasy / Cocktail Bar",
+      "neighborhood": "East Village",
+      "address": "113 St Marks Pl, New York, NY 10009",
+      "lat": 40.72707,
+      "lon": -73.98379,
+      "note": "Phone-booth-entry speakeasy; a legendary date spot",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DSvjJMpEnpz/"
+      ],
+      "distance_mi": 2.57,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Carbone",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "Greenwich Village",
+      "address": "181 Thompson St, New York, NY 10012",
+      "lat": 40.72799,
+      "lon": -74.00015,
+      "note": "The red-sauce celebrity room everyone tries to get into",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": 2.59,
+      "eligibility_tier": "Verified",
+      "eligibility_program": "Bilt",
+      "eligibility_note": "Bilt Dining NYC launch list (Upgraded Points). Re-confirm in app.",
+      "eligibility_source": "https://upgradedpoints.com/news/bilt-dining-wallet/"
+    },
+    {
+      "name": "Bar Moga",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "West Village",
+      "address": "128 W Houston St, New York, NY 10012",
+      "lat": 40.72776,
+      "lon": -74.00115,
+      "note": "Japanese bar pick for date night",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": 2.61,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Ruffian",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "East Village",
+      "address": "125 E 7th St, New York, NY 10009",
+      "lat": 40.7264,
+      "lon": -73.98411,
+      "note": "Natural-wine bar with a song-titled by-the-glass menu",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 2.62,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Dutch Kills",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Long Island City",
+      "address": "40-23 24th St, Queens, NY 11101",
+      "lat": 40.75318,
+      "lon": -73.93903,
+      "note": "Beautiful, old-New-York-style cocktail bar in LIC",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVuL5-PDyZ5/"
+      ],
+      "distance_mi": 2.66,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Corner Store",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "American",
+      "neighborhood": "SoHo",
+      "address": "475 W Broadway, New York, NY 10012",
+      "lat": 40.72665,
+      "lon": -73.99998,
+      "note": "One of NYC's hardest tables; set a Resy alarm",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": 2.67,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Torrisi",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "Nolita",
+      "address": "275 Mulberry St, New York, NY 10012",
+      "lat": 40.72422,
+      "lon": -73.99539,
+      "note": "Major Food Group Italian that regulars call the best in the city; notoriously hard to book",
+      "ig_urls": [
+        "https://www.instagram.com/p/DCar7dYsKp7/",
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": 2.79,
+      "eligibility_tier": "High-likelihood maybe",
+      "eligibility_program": "Bilt (via group)",
+      "eligibility_note": "Sister restaurant to verified Carbone, both Major Food Group. Group signal only \u2014 weakest maybe.",
+      "eligibility_source": "https://hauteliving.com/2026/07/the-italian-restaurants-defining-new-york-city-dining/792623/"
+    },
+    {
+      "name": "Book Club Bar",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "East Village",
+      "address": "197 E 3rd St, New York, NY 10009",
+      "lat": 40.72291,
+      "lon": -73.98329,
+      "note": "Bookish bar that's great for striking up conversations",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSgEdY-EYLw/"
+      ],
+      "distance_mi": 2.86,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Crosby Hotel",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "British / New American",
+      "neighborhood": "SoHo",
+      "address": "79 Crosby St, New York, NY 10012",
+      "lat": 40.72304,
+      "lon": -73.99746,
+      "note": "Luxury hotel afternoon tea that doubles as a laptop-friendly lounge",
+      "ig_urls": [
+        "https://www.instagram.com/p/DWERq-ekayN/"
+      ],
+      "distance_mi": 2.89,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Sami & Susu",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Mediterranean",
+      "neighborhood": "Lower East Side",
+      "address": "190 Orchard St, New York, NY 10002",
+      "lat": 40.72211,
+      "lon": -73.98808,
+      "note": "Intimate Mediterranean/wine bar; regulars swear by the lamb-neck ragu fettuccine",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DTjFTRJD4Mo/"
+      ],
+      "distance_mi": 2.91,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "82 Stanton",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Lower East Side",
+      "address": "82 Stanton St, New York, NY 10002",
+      "lat": 40.72165,
+      "lon": -73.98883,
+      "note": "LES bar with a strong daytime game-watching scene",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DSvjJMpEnpz/"
+      ],
+      "distance_mi": 2.94,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Ludlow Coffee Supply",
+      "type": "Caf\u00e9",
+      "original_category": "Work-friendly",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Lower East Side",
+      "address": "176 Ludlow St, New York, NY 10002",
+      "lat": 40.72167,
+      "lon": -73.98727,
+      "note": "Reliable LES classic for posting up with a laptop",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVeqodWD25Y/"
+      ],
+      "distance_mi": 2.94,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Maison Nur",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French / New American",
+      "neighborhood": "Lower East Side",
+      "address": "217 Bowery, New York, NY 10002",
+      "lat": 40.72173,
+      "lon": -73.99326,
+      "note": "Animal-print dining room; the tuna pizza and parmesan-wrapped spaghetti are the move",
+      "ig_urls": [
+        "https://www.instagram.com/p/DMDaNXhRE9n/",
+        "https://www.instagram.com/p/DSagieTkRz9/"
+      ],
+      "distance_mi": 2.95,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Mojo East",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Japanese / Omakase",
+      "neighborhood": "Lower East Side",
+      "address": "85 Stanton St, New York, NY 10002",
+      "lat": 40.72145,
+      "lon": -73.98878,
+      "note": "$55 13-course omakase with no tipping and no filler courses",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DLQWv6mv1bX/"
+      ],
+      "distance_mi": 2.95,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Elorea Coffee",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Nolita",
+      "address": "41 Spring St, New York, NY 10012",
+      "lat": 40.72191,
+      "lon": -73.99595,
+      "note": "Coffee shop on the NYC cafe-crawl list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DJmsX-8OmNm/"
+      ],
+      "distance_mi": 2.95,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Bar Revival",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Lower East Side",
+      "address": "161 Ludlow St, New York, NY 10002",
+      "lat": 40.72142,
+      "lon": -73.98778,
+      "note": "$7 happy hour on Ludlow; a steal for the neighborhood",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHo4AD6xMZn/"
+      ],
+      "distance_mi": 2.96,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Subject",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Lower East Side",
+      "address": "188 Suffolk St, New York, NY 10002",
+      "lat": 40.72147,
+      "lon": -73.9847,
+      "note": "Intimate LES cocktail bar that plays classic movies; proposal-worthy",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVuL5-PDyZ5/"
+      ],
+      "distance_mi": 2.96,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Lombardi's",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Pizza / Italian",
+      "neighborhood": "Nolita",
+      "address": "32 Spring St, New York, NY 10012",
+      "lat": 40.72163,
+      "lon": -73.9957,
+      "note": "America's first pizzeria; veggie-friendly pies",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": 2.97,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Pinky Swear",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Lower East Side",
+      "address": "171 Chrystie St, New York, NY 10002",
+      "lat": 40.72086,
+      "lon": -73.99264,
+      "note": "Cocktail bar that's better than Hinge for meeting people",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSgEdY-EYLw/"
+      ],
+      "distance_mi": 3.01,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "A Pasta Bar",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "SoHo",
+      "address": "330 W Broadway, New York, NY 10013",
+      "lat": 40.72229,
+      "lon": -74.00403,
+      "note": "Date-night Italian with big portions; book the chef's counter",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DCMgc6TRemM/"
+      ],
+      "distance_mi": 3.02,
+      "eligibility_tier": "High-likelihood maybe",
+      "eligibility_program": "Bilt",
+      "eligibility_note": "Official Bilt Rent Day Jun 2024 Brunch Experience venue + Dec 2023 tasting experience. Everyday earning unconfirmed.",
+      "eligibility_source": "https://www.biltrewards.com/terms/rent-day-jun24"
+    },
+    {
+      "name": "Tigre",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Lower East Side",
+      "address": "105 Rivington St, New York, NY 10002",
+      "lat": 40.71993,
+      "lon": -73.98815,
+      "note": "Hard-to-enter LES speakeasy with a stunning interior; plan ahead",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVuL5-PDyZ5/"
+      ],
+      "distance_mi": 3.06,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Bar Contra",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "138 Orchard St, New York, NY 10002",
+      "lat": 40.71993,
+      "lon": -73.9892,
+      "note": "Wine-bar pick for date night",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": 3.06,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "La Compagnie",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "SoHo",
+      "address": "249 Centre St, New York, NY 10013",
+      "lat": 40.7205,
+      "lon": -73.99809,
+      "note": "Natural-wine bar (des Vins Surnaturels) on the red-wine-season list",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 3.07,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "La Mercerie",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French",
+      "neighborhood": "SoHo",
+      "address": "53 Howard St, New York, NY 10013",
+      "lat": 40.72015,
+      "lon": -74.00211,
+      "note": "Elegant French cafe in SoHo, made for lingering dates",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": 3.14,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Sake No Hana",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Japanese",
+      "neighborhood": "",
+      "address": "145 Bowery, New York, NY 10002",
+      "lat": 40.71903,
+      "lon": -73.99437,
+      "note": "Japanese restaurant pick for Valentine's season",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 3.14,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Highlight Room",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Lower East Side",
+      "address": "145 Bowery, New York, NY 10002",
+      "lat": 40.71903,
+      "lon": -73.99437,
+      "note": "Rooftop bar pick for Valentine's season",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 3.14,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Attaboy",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Speakeasy / Cocktail Bar",
+      "neighborhood": "Lower East Side",
+      "address": "134 Eldridge St, New York, NY 10002",
+      "lat": 40.71891,
+      "lon": -73.99147,
+      "note": "No-menu cocktail den on Eldridge; tell them what you like",
+      "ig_urls": [
+        "https://www.instagram.com/p/DNQ0Gzyveri/"
+      ],
+      "distance_mi": 3.14,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Macao Trading Company",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Tribeca",
+      "address": "311 Church St, New York, NY 10013",
+      "lat": 40.71967,
+      "lon": -74.00402,
+      "note": "Hidden underground cocktail bar beneath Tribeca",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFwDRpsMm31/"
+      ],
+      "distance_mi": 3.19,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Ten Bells",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "Lower East Side",
+      "address": "247 Broome St, New York, NY 10002",
+      "lat": 40.71791,
+      "lon": -73.98981,
+      "note": "Beloved natural-wine bar on the LES",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 3.2,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Twins Lounge",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Greenpoint",
+      "address": "732 Manhattan Ave, Brooklyn, NY 11222",
+      "lat": 40.72628,
+      "lon": -73.95208,
+      "note": "Lounge on the meet-people-in-the-wild list",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSgEdY-EYLw/"
+      ],
+      "distance_mi": 3.21,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Georgie's",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Lower East Side",
+      "address": "182 Broome St, New York, NY 10002",
+      "lat": 40.71718,
+      "lon": -73.98629,
+      "note": "Plant-filled HK-inspired cafe; great for remote work or catch-ups",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DEfHZzbpLGs/"
+      ],
+      "distance_mi": 3.25,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Le Crocodile",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French",
+      "neighborhood": "Williamsburg",
+      "address": "80 Wythe Ave, Brooklyn, NY 11249",
+      "lat": 40.72188,
+      "lon": -73.95807,
+      "note": "Iconic French brasserie for celebratory dinners",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVHq1BXkWRP/"
+      ],
+      "distance_mi": 3.31,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Westlight",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Williamsburg",
+      "address": "111 N 12th St, Brooklyn, NY 11249",
+      "lat": 40.72215,
+      "lon": -73.95677,
+      "note": "William Vale rooftop with panoramic views and solid food",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": 3.32,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Berry Park",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Williamsburg",
+      "address": "4 Berry St, Brooklyn, NY 11249",
+      "lat": 40.72239,
+      "lon": -73.95515,
+      "note": "Laid-back Williamsburg rooftop for warm-weather hangs",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": 3.35,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Little Fino",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "Williamsburg",
+      "address": "111 N 12th St, Brooklyn, NY (The William Vale)",
+      "lat": 40.7219,
+      "lon": -73.9559,
+      "note": "Andrew Carmellini Italian caf\u00e9/restaurant at The William Vale. Coordinates approximate.",
+      "ig_urls": [],
+      "distance_mi": 3.36,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Farra",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Tribeca",
+      "address": "71 Worth St, New York, NY 10013",
+      "lat": 40.71704,
+      "lon": -74.00593,
+      "note": "Wine bar on the red-wine-season list",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 3.4,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cafe Le Gaz",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "55 Canal St, New York, NY 10002",
+      "lat": 40.71504,
+      "lon": -73.99196,
+      "note": "Bar pick for meeting people IRL",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSgEdY-EYLw/"
+      ],
+      "distance_mi": 3.4,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Hidden Pearl",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Speakeasy / Cocktail Bar",
+      "neighborhood": "Greenpoint",
+      "address": "621 Manhattan Ave, Brooklyn, NY 11222",
+      "lat": 40.72358,
+      "lon": -73.95081,
+      "note": "Refined Greenpoint cocktail bar with beautiful presentation",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR4UwaBDBaS/"
+      ],
+      "distance_mi": 3.41,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "May Kaidee",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Thai",
+      "neighborhood": "Lower East Side",
+      "address": "215 E Broadway, New York, NY 10002",
+      "lat": 40.71416,
+      "lon": -73.98748,
+      "note": "Vegetarian Thai restaurant, a go-to for meat-free diners",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": 3.46,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Musaafer",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Indian",
+      "neighborhood": "Tribeca",
+      "address": "133 Duane St, New York, NY 10013",
+      "lat": 40.71632,
+      "lon": -74.00756,
+      "note": "Stunning Indian fine dining; don't miss the sea bass curry and butter chicken experience",
+      "ig_urls": [
+        "https://www.instagram.com/p/DPuTBRxEfI_/"
+      ],
+      "distance_mi": 3.47,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Lei",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Chinatown",
+      "address": "15 Doyers St, New York, NY 10013",
+      "lat": 40.71462,
+      "lon": -73.99818,
+      "note": "Wine bar pick in the LES/Chinatown corridor",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 3.47,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Della's",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Tribeca",
+      "address": "66 W Broadway, New York, NY 10007",
+      "lat": 40.71466,
+      "lon": -74.01009,
+      "note": "Tribeca/SoHo wine bar on the red-wine-season list",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": 3.62,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Maison Premiere",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Williamsburg",
+      "address": "298 Bedford Ave, Brooklyn, NY 11249",
+      "lat": 40.71424,
+      "lon": -73.9616,
+      "note": "Oyster-and-cocktail garden rated among the world's top 100 bars",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVuL5-PDyZ5/"
+      ],
+      "distance_mi": 3.71,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Le Gratin",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French",
+      "neighborhood": "Financial District",
+      "address": "5 Beekman St, New York, NY 10007",
+      "lat": 40.71148,
+      "lon": -74.007,
+      "note": "Daniel Boulud's Lyonnaise bouchon; cozy date-night dining",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": 3.78,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Temple Court",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "FiDi",
+      "address": "5 Beekman St, New York, NY 10038",
+      "lat": 40.71132,
+      "lon": -74.00671,
+      "note": "Stunning Beekman hotel bar under a nine-story atrium",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 3.79,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Four Horsemen",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "Williamsburg",
+      "address": "295 Grand St, Brooklyn, NY 11211",
+      "lat": 40.71305,
+      "lon": -73.95732,
+      "note": "Williamsburg natural-wine bar and restaurant",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DCE-WXhJfS8/"
+      ],
+      "distance_mi": 3.87,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "We Got Company",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "441 Metropolitan Ave, Brooklyn, NY 11211",
+      "lat": 40.7142,
+      "lon": -73.95389,
+      "note": "Social bar pick for meeting people IRL",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSgEdY-EYLw/"
+      ],
+      "distance_mi": 3.88,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "House of the Red Pearl",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Chinese",
+      "neighborhood": "FiDi",
+      "address": "96 South St, New York, NY 10038",
+      "lat": 40.70659,
+      "lon": -74.00266,
+      "note": "Moody, clandestine dining room; winter date-night favorite",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSagieTkRz9/",
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 4.06,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Watermark",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Seaport",
+      "address": "89 South St, New York, NY 10038",
+      "lat": 40.70635,
+      "lon": -74.00307,
+      "note": "Waterfront party bar on the East River with palm trees and games",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DKu_vAYyuS5/"
+      ],
+      "distance_mi": 4.08,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Overstory",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "FiDi",
+      "address": "70 Pine St, New York, NY 10005",
+      "lat": 40.70635,
+      "lon": -74.00769,
+      "note": "Sky-high cocktail bar with a waitlist; 21+, one-drink minimum",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFIlryGOtKw/",
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 4.13,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Grimaldi's",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Pizza / Italian",
+      "neighborhood": "DUMBO",
+      "address": "1 Front St, Brooklyn, NY 11201",
+      "lat": 40.70257,
+      "lon": -73.99323,
+      "note": "Coal-oven pizza under the Brooklyn Bridge; Jain-friendly options",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": 4.27,
+      "eligibility_tier": "High-likelihood maybe",
+      "eligibility_program": "Rewards Network \u2192 Bilt/Rakuten indirect",
+      "eligibility_note": "Chain in Rewards Network in other states; no Brooklyn page, historically cash-only \u2014 doubtful.",
+      "eligibility_source": "https://www.aadvantagedining.com/merchants/179717"
+    },
+    {
+      "name": "Harriet's",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "DUMBO",
+      "address": "60 Furman St, Brooklyn, NY 11201",
+      "lat": 40.70224,
+      "lon": -73.99554,
+      "note": "Rooftop lounge with postcard Brooklyn Bridge views",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": 4.3,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Susukino Ramen",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Japanese / Ramen",
+      "neighborhood": "FiDi",
+      "address": "34 Water St, New York, NY 10004",
+      "lat": 40.70331,
+      "lon": -74.01069,
+      "note": "Happy hour with $3 beers and a $28 dinner set (ramen + maki + appetizer)",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DP4uBGDAeJ1/"
+      ],
+      "distance_mi": 4.38,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Baby Blue's Luncheonette",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "American / Brunch",
+      "neighborhood": "East Williamsburg",
+      "address": "97 Montrose Ave, Brooklyn, NY 11206",
+      "lat": 40.70721,
+      "lon": -73.94578,
+      "note": "Top-tier brunch pick that keeps blowing reviewers away",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DJKrhclyv-M/"
+      ],
+      "distance_mi": 4.51,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "L'Appartement 4F",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Brooklyn Heights",
+      "address": "115 Montague St, Brooklyn, NY 11201",
+      "lat": 40.69505,
+      "lon": -73.9948,
+      "note": "Beloved bakery by day, chic wine bar by night; get the cookie sundae",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DLiTEeKSa0L/"
+      ],
+      "distance_mi": 4.79,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Elsewhere",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Bushwick",
+      "address": "599 Johnson Ave, Brooklyn, NY 11237",
+      "lat": 40.70933,
+      "lon": -73.92315,
+      "note": "Multi-room Bushwick venue with a beloved rooftop",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": 5.08,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Phayul",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Tibetan",
+      "neighborhood": "Jackson Heights",
+      "address": "37-59 74th St, Queens, NY 11372",
+      "lat": 40.74734,
+      "lon": -73.8914,
+      "note": "Original Jackson Heights location; steamed beef momos are a death-bed-meal contender",
+      "ig_urls": [
+        "https://www.instagram.com/reel/CSXvJY7jJij/"
+      ],
+      "distance_mi": 5.17,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Saint Julivert",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "Cobble Hill",
+      "address": "264 Clinton St, Brooklyn, NY 11201",
+      "lat": 40.68787,
+      "lon": -73.99565,
+      "note": "Wine bar recommended by the wine-enthusiast community",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DCE-WXhJfS8/"
+      ],
+      "distance_mi": 5.29,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Alma",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Carroll Gardens",
+      "address": "187 Columbia St, Brooklyn, NY 11231",
+      "lat": 40.68557,
+      "lon": -74.00215,
+      "note": "Rooftop pick in Carroll Gardens with good vibes and food",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": 5.49,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Saturn Road",
+      "type": "Caf\u00e9",
+      "original_category": "Work-friendly",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Cobble Hill",
+      "address": "276 Court St, Brooklyn, NY 11231",
+      "lat": 40.68472,
+      "lon": -73.99492,
+      "note": "Cozy neighborhood cafe; laptops welcome until ~5pm",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVeqodWD25Y/"
+      ],
+      "distance_mi": 5.5,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Bar Reve",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Cobble Hill",
+      "address": "222 Smith St, Brooklyn, NY 11231",
+      "lat": 40.68409,
+      "lon": -73.9924,
+      "note": "Burnt-orange walls and velvet armchairs; cozy weekend bar",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR4UwaBDBaS/"
+      ],
+      "distance_mi": 5.54,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Franklin Wine Bar",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "Bed-Stuy",
+      "address": "126 Putnam Ave, Brooklyn, NY 11238",
+      "lat": 40.68321,
+      "lon": -73.95632,
+      "note": "Community-recommended wine bar from a wine-creator poll",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DCE-WXhJfS8/"
+      ],
+      "distance_mi": 5.83,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Frog Wine Bar",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Wine Bar",
+      "neighborhood": "Bed-Stuy",
+      "address": "358 Marcus Garvey Blvd, Brooklyn, NY 11221",
+      "lat": 40.68484,
+      "lon": -73.93855,
+      "note": "Bed-Stuy natural-wine bar with a garden and a red pool table",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR4UwaBDBaS/",
+        "https://www.instagram.com/reel/DCE-WXhJfS8/",
+        "https://www.instagram.com/reel/DVuL5-PDyZ5/"
+      ],
+      "distance_mi": 6.06,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Silver Lining",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "1100 Coney Island Ave, Brooklyn, NY 11230",
+      "lat": 40.63069,
+      "lon": -73.96652,
+      "note": "Cocktail bar on the Valentine's top-20 list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": 9.29,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Enoteca Maria",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian / Global",
+      "neighborhood": "Staten Island",
+      "address": "27 Hyatt St, Staten Island, NY 10301",
+      "lat": 40.642,
+      "lon": -74.07729,
+      "note": "Real grandmothers from around the world cook their family recipes; cash only, Fri-Sun",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DBG72A-PyDL/"
+      ],
+      "distance_mi": 9.66,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Trinciti Roti Shop",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Caribbean",
+      "neighborhood": "South Ozone Park, Queens",
+      "address": "111-03 Lefferts Blvd, Queens, NY 11420",
+      "lat": 40.68038,
+      "lon": -73.82096,
+      "note": "$2.50 doubles and $18 bake & shark; a NY Times 100 best bargain",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DK78WDJJjwV/"
+      ],
+      "distance_mi": 10.48,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Commerce Inn",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "American / Brunch",
+      "neighborhood": "West Village",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Cozy brunch spot famous for fluffy berry pancakes",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DSausATCUzX/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Saaqa",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Cocktail lounge sibling of Musaafer, from the same team",
+      "ig_urls": [
+        "https://www.instagram.com/p/DPuTBRxEfI_/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Rangoon",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Burmese",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Michelin-recognized Burmese; the noodle pull alone is worth the trip",
+      "ig_urls": [
+        "https://www.instagram.com/reel/CmkSxK1NuWB/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Limusina",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Mexican",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Brand-new Don Angie-team Mexican; the $75 long-bone short rib quesabirria is the showstopper",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DOqqOAMjQ2E/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Kimo's Backyard",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Mediterranean",
+      "neighborhood": "Rockaway",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Greek beach-day fuel: lamb pita, peach-ginger lemonade, and baklava",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DK18aXgM-m6/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Colonie",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "New American",
+      "neighborhood": "Brooklyn Heights",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Cozy neighborhood staple with chef's-counter seating for date night",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DLiTEeKSa0L/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "New York Prime",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Steakhouse",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Old-school prime rib house; a hard-to-get Resy trophy",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Theodora",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Mediterranean",
+      "neighborhood": "Brooklyn",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Brooklyn dining room that's become a tough Resy get",
+      "ig_urls": [
+        "https://www.instagram.com/p/DR26wTwAHx_/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Canto",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Italian",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Date-night pick from the 'where hot guys eat' list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Chambers",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "New American",
+      "neighborhood": "Tribeca",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Tribeca spot praised for an excellent wine list; also a date-night favorite",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/",
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Boucherie",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "French steakhouse pick for date night",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Birds of a Feather",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Chinese",
+      "neighborhood": "Williamsburg",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Brooklyn date-night restaurant on the hot-guys-eat-here list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Kiki's",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Greek",
+      "neighborhood": "Lower East Side",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Lively Greek taverna that's a date-night staple",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Raoul's",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "French",
+      "neighborhood": "SoHo",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Beloved SoHo bistro, a classic date move",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DF3XYHFP8pe/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "John's Pizzeria",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Pizza / Italian",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Vegetarian-friendly pizza pick (no onion/garlic options)",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Joe's Pizza",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Pizza / Italian",
+      "neighborhood": "Greenwich Village",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Classic NY slice that works for vegetarian diets",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Motorino",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Pizza / Italian",
+      "neighborhood": "East Village",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Neapolitan pies with vegetarian options",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Keste",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Pizza / Italian",
+      "neighborhood": "West Village",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Neapolitan pizzeria, good for no-onion/no-garlic diners",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Wild Ginger",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Thai / Pan-Asian",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Pan-Asian menu with solid vegetarian options",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Moshe's Falafel",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Middle Eastern",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Falafel and Middle Eastern plates for vegetarian eaters",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DDVwvU1sGoF/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Dejavu",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Korean",
+      "neighborhood": "Greenwich Village",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Velvet-draped supper restaurant and club for late date nights",
+      "ig_urls": [
+        "https://www.instagram.com/p/DSagieTkRz9/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Level",
+      "type": "Restaurant",
+      "original_category": "Restaurants",
+      "cuisine": "Japanese",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Date-night restaurant on the Valentine's top-20 list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Stripes",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Union Square",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Live jazz every Thursday night at this Union Square bar",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DKFwWNoySuV/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Lemons",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Rooftop Bar",
+      "neighborhood": "Williamsburg",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Wythe Hotel rooftop-aperitivo spot",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHjDIm4uSIE/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Polly's",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Neighborhood bar pick for date night",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Reyna",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Bar pick for Valentine's/Galentine's night out",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Garfunkel's",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Bar on the Valentine's top-20 list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Apothecary",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Apothecary-style cocktail bar (both locations) for date night",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Newsroom",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Bar on the Valentine's top-20 list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DFvNgG0OC6t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Gosh",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Chinatown",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Chinatown bar with the wildest decor: rock walls, mushroom stools, cheeky art",
+      "ig_urls": [
+        "https://www.instagram.com/p/DZ7RloKFe4t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Bar Chucho",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Two Bridges",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Two Bridges bar celebrated for its over-the-top interior",
+      "ig_urls": [
+        "https://www.instagram.com/p/DZ7RloKFe4t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Stars",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Design-forward bar people keep asking about",
+      "ig_urls": [
+        "https://www.instagram.com/p/DZ7RloKFe4t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Shirley's",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Bed-Stuy",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Bed-Stuy cocktail bar with wild design; note the $20 cash-only drinks",
+      "ig_urls": [
+        "https://www.instagram.com/p/DZ7RloKFe4t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cassetta",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Wine bar on the red-wine-season list",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "DEMO",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "West Village",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "West Village wine bar on the red-wine-season list",
+      "ig_urls": [
+        "https://www.instagram.com/p/DUaqLfpFR4t/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cellar 36",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Wine bar recommended by the wine-enthusiast community",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DCE-WXhJfS8/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Fuki",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Williamsburg",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Cherry collagen smoothie worth the hype; great smoothie-date spot",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DKA0d1LvS0E/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cha & Bar",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Williamsburg",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Minimalist tea bar; matcha in a martini glass and a fun tea flight",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DHtFzoVOP4u/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Cafe Lyria",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Lower East Side",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Coffee shop on the NYC cafe-crawl list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DJmsX-8OmNm/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Enly Coffee",
+      "type": "Caf\u00e9",
+      "original_category": "Caf\u00e9s & Coffee",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Coffee shop on the NYC cafe-crawl list",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DJmsX-8OmNm/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Conwell Cocktail Hall",
+      "type": "Caf\u00e9",
+      "original_category": "Work-friendly",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Red Hook",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Laptop-friendly cafe inside a former bank vault",
+      "ig_urls": [
+        "https://www.instagram.com/reel/DVeqodWD25Y/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Maison Welles",
+      "type": "Caf\u00e9",
+      "original_category": "Work-friendly",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Cozy lounge with a pink corduroy sofa; great for meetings",
+      "ig_urls": [
+        "https://www.instagram.com/p/DWERq-ekayN/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "The Twenty Two",
+      "type": "Caf\u00e9",
+      "original_category": "Work-friendly",
+      "cuisine": "Coffee / Caf\u00e9",
+      "neighborhood": "Union Square",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Hotel lounge that's a favorite work-from-anywhere spot",
+      "ig_urls": [
+        "https://www.instagram.com/p/DWERq-ekayN/"
+      ],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    },
+    {
+      "name": "Deux Luxe",
+      "type": "Bar / Rooftop",
+      "original_category": "Bars & Rooftops",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "note": "Bar/restaurant from the Nov 13 collection fetch \u2014 exact location not in caption, listed without a pin.",
+      "ig_urls": [],
+      "distance_mi": null,
+      "eligibility_tier": "No evidence",
+      "eligibility_program": "",
+      "eligibility_note": "No public Bilt/Rakuten/Reddit evidence found. Lists are app-only \u2014 check in app.",
+      "eligibility_source": ""
+    }
+  ]
+}
