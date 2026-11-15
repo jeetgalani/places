@@ -13,7 +13,7 @@ An interactive map of 155 NYC restaurants, bars/rooftops and cafés from a saved
 | `.github/workflows/pages.yml` | Deploys `frontend/` to GitHub Pages. |
 
 ## Data
-155 places: 66 restaurants, 73 bars & rooftops, 16 cafés. 111 have map pins; 44 are list-only ("Location TBD"). Distances are straight-line miles from Hell's Kitchen (40.764195, -73.987652).
+155 places: 66 restaurants, 73 bars & rooftops, 16 cafés. 111 have map pins; 44 are list-only ("Location TBD"). The site asks the browser for your current location and computes straight-line miles from there; if location is denied or unavailable it falls back to Hell's Kitchen (40.764195, -73.987652), which is also the reference point for the precomputed `distance_mi` in the backend data.
 
 Eligibility (researched Nov 13, 2026): 2 Verified (Carbone, Hutong — Bilt), 4 High-likelihood maybe (Tatiana, A Pasta Bar, Grimaldi's, Torrisi), 149 No evidence. Neither program publishes its full list; "no evidence" does not mean not participating.
 
